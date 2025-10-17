@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="189" height="241.28" viewBox="0 0 189 241.28">
+  <defs>
+    <clipPath id="clip-path" transform="translate(-6 -31.22)">
+      <rect x="32" y="100.5" width="139.59" height="54.46" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="WIRE">
+    <g id="PIN_POWER">
+      <line x1="28.57" y1="230.78" x2="28.57" y2="240.18" fill="none" stroke="#b2b2b2" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <line x1="28.57" y1="230.78" x2="28.57" y2="240.18" fill="#f7f7f7"/>
+    </g>
+    <g id="PIN_DATA">
+      <line x1="90.26" y1="230.87" x2="90.26" y2="240.28" fill="none" stroke="#b2b2b2" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <line x1="90.26" y1="230.87" x2="90.26" y2="240.28" fill="#f7f7f7"/>
+    </g>
+    <g id="PIN_GND">
+      <line x1="156.1" y1="230.87" x2="156.1" y2="240.28" fill="none" stroke="#b2b2b2" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <line x1="156.1" y1="230.87" x2="156.1" y2="240.28" fill="#f7f7f7"/>
+    </g>
+  </g>
+  <g id="BASE">
+    <g>
+      <rect x="0.5" y="53.78" width="188" height="177" fill="#81a4c1"/>
+      <path d="M194,85.5v176H7V85.5H194m1-1H6v178H195V84.5Z" transform="translate(-6 -31.22)"/>
+    </g>
+    <g>
+      <rect x="16.5" y="60.78" width="158" height="69" fill="#5da8f4"/>
+      <path d="M180,92.5v68H23v-68H180m1-1H22v70H181v-70Z" transform="translate(-6 -31.22)"/>
+    </g>
+    <g clip-path="url(#clip-path)">
+      <g>
+        <g>
+          <rect x="26.5" y="69.78" width="10" height="10" fill="#1a1b1c"/>
+          <path d="M42,101.5v9H33v-9h9m1-1H32v11H43v-11Z" transform="translate(-6 -31.22)"/>
+        </g>
+        <g>
+          <rect x="47.5" y="69.78" width="10" height="10" fill="#1a1b1c"/>
+          <path d="M63,101.5v9H54v-9h9m1-1H53v11H64v-11Z" transform="translate(-6 -31.22)"/>
+        </g>
+        <g>
+          <rect x="68.5" y="69.78" width="10" height="10" fill="#1a1b1c"/>
+          <path d="M84,101.5v9H75v-9h9m1-1H74v11H85v-11Z" transform="translate(-6 -31.22)"/>
+        </g>
+        <g>
+          <rect x="89.5" y="69.78" width="10" height="10" fill="#1a1b1c"/>
+          <path d="M105,101.5v9H96v-9h9m1-1H95v11h11v-11Z" transform="translate(-6 -31.22)"/>
+        </g>
+        <g>
+          <rect x="110.5" y="69.78" width="10" height="10" fill="#1a1b1c"/>
+          <path d="M126,101.5v9h-9v-9h9m1-1H116v11h11v-11Z" transform="translate(-6 -31.22)"/>
+        </g>
+        <g>
+          <rect x="131.5" y="69.78" width="10" height="10" fill="#1a1b1c"/>
+          <path d="M147,101.5v9h-9v-9h9m1-1H137v11h11v-11Z" transform="translate(-6 -31.22)"/>
+        </g>
+        <g>
+          <rect x="152.5" y="69.78" width="10" height="10" fill="#1a1b1c"/>
+          <path d="M168,101.5v9h-9v-9h9m1-1H158v11h11v-11Z" transform="translate(-6 -31.22)"/>
+        </g>
+        <g>
+          <rect x="26.5" y="90.69" width="10" height="10" fill="#1a1b1c"/>
+          <path d="M42,122.42v9H33v-9h9m1-1H32v11H43v-11Z" transform="translate(-6 -31.22)"/>
+        </g>
+        <g>
+          <rect x="47.5" y="90.69" width="10" height="10" fill="#1a1b1c"/>
+          <path d="M63,122.42v9H54v-9h9m1-1H53v11H64v-11Z" transform="translate(-6 -31.22)"/>
+        </g>
+        <g>
+          <rect x="68.5" y="90.69" width="10" height="10" fill="#1a1b1c"/>
+          <path d="M84,122.42v9H75v-9h9m1-1H74v11H85v-11Z" transform="translate(-6 -31.22)"/>
+        </g>
+        <g>
+          <rect x="89.5" y="90.69" width="10" height="10" fill="#1a1b1c"/>
+          <path d="M105,122.42v9H96v-9h9m1-1H95v11h11v-11Z" transform="translate(-6 -31.22)"/>
+        </g>
+        <g>
+          <rect x="110.5" y="90.69" width="10" height="10" fill="#1a1b1c"/>
+          <path d="M126,122.42v9h-9v-9h9m1-1H116v11h11v-11Z" transform="translate(-6 -31.22)"/>
+        </g>
+        <g>
+          <rect x="131.5" y="90.69" width="10" height="10" fill="#1a1b1c"/>
+          <path d="M147,122.42v9h-9v-9h9m1-1H137v11h11v-11Z" transform="translate(-6 -31.22)"/>
+        </g>
+        <g>
+          <rect x="152.5" y="90.69" width="10" height="10" fill="#1a1b1c"/>
+          <path d="M168,122.42v9h-9v-9h9m1-1H158v11h11v-11Z" transform="translate(-6 -31.22)"/>
+        </g>
+        <g>
+          <rect x="26.5" y="111.61" width="10" height="10" fill="#1a1b1c"/>
+          <path d="M42,143.33v9H33v-9h9m1-1H32v11H43v-11Z" transform="translate(-6 -31.22)"/>
+        </g>
+        <g>
+          <rect x="47.5" y="111.61" width="10" height="10" fill="#1a1b1c"/>
+          <path d="M63,143.33v9H54v-9h9m1-1H53v11H64v-11Z" transform="translate(-6 -31.22)"/>
+        </g>
+        <g>
+          <rect x="68.5" y="111.61" width="10" height="10" fill="#1a1b1c"/>
+          <path d="M84,143.33v9H75v-9h9m1-1H74v11H85v-11Z" transform="translate(-6 -31.22)"/>
+        </g>
+        <g>
+          <rect x="89.5" y="111.61" width="10" height="10" fill="#1a1b1c"/>
+          <path d="M105,143.33v9H96v-9h9m1-1H95v11h11v-11Z" transform="translate(-6 -31.22)"/>
+        </g>
+        <g>
+          <rect x="110.5" y="111.61" width="10" height="10" fill="#1a1b1c"/>
+          <path d="M126,143.33v9h-9v-9h9m1-1H116v11h11v-11Z" transform="translate(-6 -31.22)"/>
+        </g>
+        <g>
+          <rect x="131.5" y="111.61" width="10" height="10" fill="#1a1b1c"/>
+          <path d="M147,143.33v9h-9v-9h9m1-1H137v11h11v-11Z" transform="translate(-6 -31.22)"/>
+        </g>
+        <g>
+          <rect x="152.5" y="111.61" width="10" height="10" fill="#1a1b1c"/>
+          <path d="M168,143.33v9h-9v-9h9m1-1H158v11h11v-11Z" transform="translate(-6 -31.22)"/>
+        </g>
+      </g>
+    </g>
+    <text transform="translate(14.67 158.9)" font-size="21" font-family="Biryani-Bold, Biryani" font-weight="700">Temperature &amp;<tspan x="-8.69" y="25.2">Humidity Sensor</tspan></text>
+  </g>
+  <g id="TEXT">
+    <text id="HUMID_TEXT" transform="translate(16.64 45)" font-size="21" font-family="Biryani-Bold, Biryani" font-weight="700">Humidity: 50%</text>
+    <text transform="translate(21.97 225.37)" font-size="24" font-family="Biryani-SemiBold, Biryani" font-weight="600">+</text>
+    <text transform="translate(150.65 224.37)" font-size="24" font-family="Biryani-SemiBold, Biryani" font-weight="600">-</text>
+    <text id="PIN_TEXT" transform="translate(77.06 226.19)" font-size="24" fill="#2d2d2c" font-family="Biryani-SemiBold, Biryani" font-weight="600">A5</text>
+    <text id="TEMP_TEXT" transform="translate(3.92 18.46)" font-size="21" font-family="Biryani-Bold, Biryani" font-weight="700">Temperature: 90°</text>
+  </g>
+</svg>

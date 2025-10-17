@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="92.98" height="232.22" viewBox="0 0 92.98 232.22">
+  <g id="WIRES">
+    <line id="PIN_POWER" x1="8.6" y1="212.82" x2="8.6" y2="229.87" fill="none" stroke="#727272" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="PIN_GND" x1="85.6" y1="214.17" x2="85.6" y2="231.22" fill="none" stroke="#727272" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="PIN_DATA" x1="46.56" y1="214.58" x2="46.56" y2="229.87" fill="none" stroke="#727272" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+  <g id="LIGHT">
+    <path id="BASE" d="M3.86,100.34l92.53.36-.46,116.61L3.4,217Z" transform="translate(-3.4 4.21)" fill="#73ddd3"/>
+    <text id="PIN_TEXT" transform="matrix(1, 0, 0, 1, 29.34, 215.58)" font-size="24" font-family="Biryani-SemiBold, Biryani" font-weight="600">A5</text>
+    <text id="VCC_TEXT" transform="translate(2.13 215.69)" font-size="24" font-family="Biryani-SemiBold, Biryani" font-weight="600">+</text>
+    <text id="GND_TEXT" transform="translate(79.72 216.69)" font-size="24" font-family="Biryani-SemiBold, Biryani" font-weight="600">-</text>
+    <text id="READING_VALUE" transform="translate(7.74 31.64)" font-size="36" font-family="Biryani-ExtraBold, Biryani" font-weight="800">1024</text>
+    <text id="SENSOR_LABEL" transform="translate(9.51 149.14)" font-size="21" font-family="Biryani-SemiBold, Biryani" font-weight="600">Analog<tspan x="1.08" y="25.2">Sensor</tspan></text>
+    <g id="SENSOR_ICON">
+      <circle cx="47.92" cy="103.93" r="22.06"/>
+      <path d="M71.55,39.16a3,3,0,1,0-4.64-3.87,20.2,20.2,0,0,1-31.16-.17A3,3,0,0,0,30.39,37a3,3,0,0,0,.68,1.92,26.22,26.22,0,0,0,40.48.22Z" transform="translate(-3.4 4.21)" fill="#4221aa"/>
+      <path d="M67.13,58.15a39,39,0,0,0,12.7-8.86,3,3,0,1,0-4.37-4.18,32.63,32.63,0,0,1-24,10.2,33,33,0,0,1-24.31-10.9,3,3,0,0,0-5.27,2,3.09,3.09,0,0,0,.78,2A39,39,0,0,0,51.42,61.35,38.77,38.77,0,0,0,67.13,58.15Z" transform="translate(-3.4 4.21)" fill="#4221aa"/>
+      <path d="M72,69.41A51.34,51.34,0,0,0,88.74,57.68a3,3,0,1,0-4.39-4.16A45.14,45.14,0,0,1,69.59,63.87a45.44,45.44,0,0,1-36.72-.27A45.25,45.25,0,0,1,18.13,52.9a3,3,0,0,0-4.27-.19A3,3,0,0,0,13.67,57,51.09,51.09,0,0,0,30.38,69.1,51.37,51.37,0,0,0,72,69.41Z" transform="translate(-3.4 4.21)" fill="#4221aa"/>
+    </g>
+  </g>
+</svg>
