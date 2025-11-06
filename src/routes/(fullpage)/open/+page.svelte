@@ -219,7 +219,7 @@
       
 </main>
 <svelte:head>
-  <title>Arduino Workflow Builder - Open Projects</title>
+  <title>Arduino Workflow Builder - Projects</title>
 </svelte:head>
 
 <style>
